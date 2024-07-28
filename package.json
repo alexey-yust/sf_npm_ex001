@@ -1,0 +1,15 @@
+{
+  "name": "sf_npm_ex001",
+  "version": "1.0.0",
+  "description": "Functions for data array",
+  "main": "array_functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+	"type": "git",
+    "url": "git+https://github.com/alexey-yust/sf_npm_ex001.git"
+  },	
+  "author": "Alex",
+  "license": "ISC"
+}
